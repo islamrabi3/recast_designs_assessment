@@ -21,12 +21,16 @@ class LoyalPointWidget extends StatelessWidget {
   Widget build(BuildContext context) {
     return Container(
       width: double.infinity,
-      height: MediaQuery.of(context).size.height * 0.22,
+      constraints: BoxConstraints(
+        maxHeight:
+            MediaQuery.of(context).size.height *
+            AppSizes.loyaltyCardMaxHeightFactor,
+      ),
       decoration: BoxDecoration(
         color: AppColors.mediumGrey30,
         borderRadius: BorderRadius.circular(AppSizes.radiusXL.r),
       ),
-      child: Padding(
+      child: SingleChildScrollView(
         padding: EdgeInsets.symmetric(
           horizontal: AppSizes.paddingHorizontal.r,
           vertical: AppSizes.paddingVertical.h,

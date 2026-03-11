@@ -54,6 +54,7 @@ class AppSizes {
 
   // Card
   static double loyaltyCardHeight = 166.h;
+  static const double loyaltyCardMaxHeightFactor = 0.35;
   static double progressBarHeight = 20;
   static double moreDetailsButtonHeight = 18;
 
