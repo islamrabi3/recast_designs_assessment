@@ -10,7 +10,7 @@ The home screen displays a welcome message, loyalty points card with progress tr
 
 <p>
   <img src="screenshots/home-screen.png" width="280" alt="Home Screen - Loyalty Points and Venue Selection">
-  <img src="screenshots/home-screen-2.png" width="280" alt="Home Screen - Venue Grid">
+ 
 </p>
 
 ### Profile Screen
@@ -19,7 +19,7 @@ The profile screen shows user information (name, phone number) with an edit opti
 
 <p>
   <img src="screenshots/profile-screen.png" width="280" alt="Profile Screen - User Info and Loyalty History">
-  <img src="screenshots/profile-screen-2.png" width="280" alt="Profile Screen - Loyalty History Cards">
+
 </p>
 
 ## Features
