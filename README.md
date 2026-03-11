@@ -8,8 +8,8 @@ A Flutter mobile application showcasing a loyalty program experience with venue 
 
 The home screen displays a welcome message, loyalty points card with progress tracking, and a grid of venue/restaurant cards.
 
-<p>
-  <img src="screenshots/home-screen.png" width="280" alt="Home Screen - Loyalty Points and Venue Selection">
+<p> 
+  <img src="screenshots/home-screen-2.png" width="280" alt="Home Screen - Venue Grid">
  
 </p>
 
